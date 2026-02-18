@@ -1,0 +1,140 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "profilePic": "https://i.pravatar.cc/150?img=1",
+      "location": "Chennai, India",
+      "image": "https://picsum.photos/500/600?random=1",
+      "caption": "Sunset vibes 🌅",
+      "likes": 1243,
+      "timeAgo": "2 hours ago",
+      "comments": [
+        { "id": 1, "username": "priya_art", "text": "Wow beautiful view 😍", "timeAgo": "1h" },
+        { "id": 2, "username": "rahul_travels", "text": "Miss this place!", "timeAgo": "45m" }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "priya_art",
+      "profilePic": "https://i.pravatar.cc/150?img=5",
+      "location": "Bangalore",
+      "image": "https://picsum.photos/500/600?random=2",
+      "caption": "Sketching my thoughts ✏️",
+      "likes": 892,
+      "timeAgo": "5 hours ago",
+      "comments": [
+        { "id": 1, "username": "john_doe", "text": "Super creative 🔥", "timeAgo": "3h" },
+        { "id": 2, "username": "art_lover", "text": "Loved the shading work", "timeAgo": "2h" }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "travel_with_rahul",
+      "profilePic": "https://i.pravatar.cc/150?img=8",
+      "location": "Goa Beach",
+      "image": "https://picsum.photos/500/600?random=3",
+      "caption": "Life is better at the beach 🏖️",
+      "likes": 3421,
+      "timeAgo": "1 day ago",
+      "comments": [
+        { "id": 1, "username": "beachgirl", "text": "Take me with you 😭", "timeAgo": "20h" },
+        { "id": 2, "username": "john_doe", "text": "Bro this looks amazing", "timeAgo": "18h" }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "fit_anu",
+      "profilePic": "https://i.pravatar.cc/150?img=12",
+      "location": "Gym Chennai",
+      "image": "https://picsum.photos/500/600?random=4",
+      "caption": "No pain no gain 💪",
+      "likes": 1780,
+      "timeAgo": "3 hours ago",
+      "comments": [
+        { "id": 1, "username": "gym_buddy", "text": "Let's go 💪🔥", "timeAgo": "2h" }
+      ]
+    },
+    {
+      "id": 5,
+      "username": "foodie_karthik",
+      "profilePic": "https://i.pravatar.cc/150?img=15",
+      "location": "Coimbatore",
+      "image": "https://picsum.photos/500/600?random=5",
+      "caption": "Dosa + filter coffee = ❤️",
+      "likes": 2210,
+      "timeAgo": "6 hours ago",
+      "comments": [
+        { "id": 1, "username": "chennai_foodie", "text": "Now I'm hungry 🤤", "timeAgo": "5h" },
+        { "id": 2, "username": "john_doe", "text": "Best combo ever!", "timeAgo": "4h" }
+      ]
+    },
+    {
+      "id": 6,
+      "username": "tech_irfan",
+      "profilePic": "https://i.pravatar.cc/150?img=18",
+      "location": "Coimbatore",
+      "image": "https://picsum.photos/500/600?random=6",
+      "caption": "Building my Instagram clone 💻🔥",
+      "likes": 540,
+      "timeAgo": "1 hour ago",
+      "comments": [
+        { "id": 1, "username": "dev_guru", "text": "Keep going bro 🚀", "timeAgo": "45m" },
+        { "id": 2, "username": "ui_lover", "text": "UI looks clean 😍", "timeAgo": "30m" }
+      ]
+    },
+    {
+      "id": 7,
+      "username": "nature_vibes",
+      "profilePic": "https://i.pravatar.cc/150?img=20",
+      "location": "Ooty Hills",
+      "image": "https://picsum.photos/500/600?random=7",
+      "caption": "Lost in nature 🌿",
+      "likes": 3120,
+      "timeAgo": "4 hours ago",
+      "comments": [
+        { "id": 1, "username": "john_doe", "text": "So peaceful 😌", "timeAgo": "3h" }
+      ]
+    },
+    {
+      "id": 8,
+      "username": "street_photog",
+      "profilePic": "https://i.pravatar.cc/150?img=22",
+      "location": "Mumbai Streets",
+      "image": "https://picsum.photos/500/600?random=8",
+      "caption": "Capturing life as it is 📸",
+      "likes": 2210,
+      "timeAgo": "6 hours ago",
+      "comments": [
+        { "id": 1, "username": "rahul_travels", "text": "Great shot!", "timeAgo": "5h" },
+        { "id": 2, "username": "photo_fan", "text": "Colors are amazing 🔥", "timeAgo": "4h" }
+      ]
+    },
+    {
+      "id": 9,
+      "username": "coffee_addict",
+      "profilePic": "https://i.pravatar.cc/150?img=25",
+      "location": "Bangalore Cafe",
+      "image": "https://picsum.photos/500/600?random=9",
+      "caption": "But first, coffee ☕",
+      "likes": 980,
+      "timeAgo": "2 hours ago",
+      "comments": [
+        { "id": 1, "username": "foodie_karthik", "text": "Same here 😂", "timeAgo": "1h" }
+      ]
+    },
+    {
+      "id": 10,
+      "username": "fitness_jay",
+      "profilePic": "https://i.pravatar.cc/150?img=27",
+      "location": "Gym Zone",
+      "image": "https://picsum.photos/500/600?random=10",
+      "caption": "Leg day done 🦵🔥",
+      "likes": 1500,
+      "timeAgo": "7 hours ago",
+      "comments": [
+        { "id": 1, "username": "fit_anu", "text": "Respect 💪", "timeAgo": "6h" }
+      ]
+    }
+  ]
+}
